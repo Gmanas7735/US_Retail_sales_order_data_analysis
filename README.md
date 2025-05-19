@@ -2,7 +2,8 @@
 
 ## 📌 Overview
 This project demonstrates a complete data analysis pipeline using Python, Pandas, and SQL Server. The dataset is sourced from Kaggle API, cleaned and processed in Python, loaded into a SQL Server database, and finally analyzed using SQL queries.
-
+## Please take a look at the diagram below 👇🏻
+![Project Python + SQL Diagram](https://github.com/Gmanas7735/Python-Sql_Project/raw/main/Project%20Python%20%2B%20SQL.drawio%20(1).png)
 
 ## 🔄 Workflow
 Download Dataset
@@ -117,7 +118,7 @@ df.to_sql('df_orders', con=conn , index=False, if_exists = 'append')
 
 * pyodbc / sqlalchemy
 
-## 📈 Output
+## 📈 Requirements in SQL
 Key business insights and analytical queries.
 ### find top 10 highest reveue generating products
 ```sql
