@@ -1,4 +1,4 @@
-# 🔍 US Retail sales order Data Analysis - Project using Python + SQL
+# 🔍 US_retail_sales_order_data_Analysis Project (Python + SQL)
 
 ## 📌 Overview
 This project demonstrates a complete data analysis pipeline using Python, Pandas, and SQL Server. The dataset is sourced from Kaggle API, cleaned and processed in Python, loaded into a SQL Server database, and finally analyzed using SQL queries.
